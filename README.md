@@ -27,7 +27,7 @@ Script is scrapping allegro to get information about existing items, prices and 
 
 ### Built With
 
-* [PyTube](https://www.selenium.dev/)
+* [Selenium](https://www.selenium.dev/)
 * [Python](https://www.python.org/)
 
 <!-- LICENSE -->
