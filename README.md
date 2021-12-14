@@ -1,6 +1,6 @@
-PythonForLinux YT-downloader
+Allegro Data Scraping
 =======
-# Scripts with Python for Linux (series)
+# Allegro Data Scraping with python
 
 ## created by Paweł Perenc
 
