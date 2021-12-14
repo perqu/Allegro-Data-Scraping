@@ -1,7 +1,5 @@
 Allegro Data Scraping
 =======
-# Allegro Data Scraping with python
-
 ## created by Paweł Perenc
 
 <!-- TABLE OF CONTENTS -->
